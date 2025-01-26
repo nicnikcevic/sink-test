@@ -5,7 +5,7 @@ This project is the MVP of an IOS social media app created for Dartmouth student
 App not yet deployed
                                                                 
 # Video Demo
-- See MVP Demo.mov
+- See MVP Demo.mov inside of SinkTest
                                                                 
 # Setup instructions for running locally
 1) Download raw code from Github
