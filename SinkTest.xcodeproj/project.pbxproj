@@ -11,6 +11,8 @@
 		AAC4FD3A2D3C390100A91CC6 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = AAC4FD392D3C390100A91CC6 /* FirebaseFirestore */; };
 		AAC4FD3C2D3C393800A91CC6 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = AAC4FD3B2D3C393800A91CC6 /* FirebaseStorage */; };
 		AAC4FD3F2D3C39DA00A91CC6 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = AAC4FD3E2D3C39DA00A91CC6 /* SDWebImageSwiftUI */; };
+		AADB5E0E2D46D3BE00E9A402 /* MasterREADME.md in Resources */ = {isa = PBXBuildFile; fileRef = AADB5E0D2D46D3BE00E9A402 /* MasterREADME.md */; };
+		AADB5E142D46E20800E9A402 /* DALI_APP_NIC_README.md in Resources */ = {isa = PBXBuildFile; fileRef = AADB5E132D46E20800E9A402 /* DALI_APP_NIC_README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +36,8 @@
 		AAC4FCDF2D3C36CC00A91CC6 /* SinkTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SinkTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAC4FCEF2D3C36CE00A91CC6 /* SinkTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SinkTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAC4FCF92D3C36CE00A91CC6 /* SinkTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SinkTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AADB5E0D2D46D3BE00E9A402 /* MasterREADME.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MasterREADME.md; sourceTree = "<group>"; };
+		AADB5E132D46E20800E9A402 /* DALI_APP_NIC_README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = DALI_APP_NIC_README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -86,6 +90,8 @@
 		AAC4FCD62D3C36CC00A91CC6 = {
 			isa = PBXGroup;
 			children = (
+				AADB5E0D2D46D3BE00E9A402 /* MasterREADME.md */,
+				AADB5E132D46E20800E9A402 /* DALI_APP_NIC_README.md */,
 				AAC4FCE12D3C36CC00A91CC6 /* SinkTest */,
 				AAC4FCF22D3C36CE00A91CC6 /* SinkTestTests */,
 				AAC4FCFC2D3C36CE00A91CC6 /* SinkTestUITests */,
@@ -239,6 +245,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AADB5E0E2D46D3BE00E9A402 /* MasterREADME.md in Resources */,
+				AADB5E142D46E20800E9A402 /* DALI_APP_NIC_README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

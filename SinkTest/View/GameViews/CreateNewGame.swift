@@ -104,9 +104,6 @@ public struct CreateNewGame: View {
                                                     ? Color.white : Color.black,
                                                 lineWidth: 2)
                                     )
-                                Text("Shrub (7 cups)")
-                                    .font(.title3)
-                                    .fontWeight(.semibold)
                             }
                         }
                         .buttonStyle(PlainButtonStyle())
@@ -132,9 +129,6 @@ public struct CreateNewGame: View {
                                                     ? Color.white : Color.black,
                                                 lineWidth: 2)
                                     )
-                                Text("Tree (11 cups)")
-                                    .font(.title3)
-                                    .fontWeight(.semibold)
                             }
                         }
                         .buttonStyle(PlainButtonStyle())
