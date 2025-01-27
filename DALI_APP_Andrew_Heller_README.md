@@ -28,3 +28,6 @@ The biggest challenge was going in with almost no knowledge. Because we wanted t
 
 ## What I worked on
 I created the GameCardView. This is how each individual game is shown. I also changed the profile page to look a lot cleaner and work better with our games. I implemented the pseudocode for how to interact with the server for when we add a game. I made sure fetching games with the new information would also work. I also implemented a UI Frankie created for the UI so it would work with how the tutorial worked. Also, there were a lot of issues when fetching the games from the server so I fixed that which took a surprising amount of time.
+
+## Notes
+The three of us put approximately the same amount of time into this project as for the past three Saturdays we worked on it together. While we did do things individually during those work sessions, we all played some part in each aspect of the app. The master README has some additional details on where we plan to go with this and a few other general details.
