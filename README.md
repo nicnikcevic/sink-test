@@ -1,5 +1,5 @@
-# SinkAPP
+# SinkAPP - Andrew Heller, Nic Nikcevic, Frankie Severino
 
-## All three of Andrew Heller, Nic Nikcevic, and Frankie Severino worked on this project equally
-## Accordingly, we are all subnmitting this for our DALI Lab Application
-## Each individual has their own README detailing what specifically they did
+All three of Andrew Heller, Nic Nikcevic, and Frankie Severino worked on this project equally
+Accordingly, we are all subnmitting this for our DALI Lab Application
+Each individual has their own README detailing what specifically they did
