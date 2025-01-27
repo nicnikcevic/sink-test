@@ -1,3 +1,6 @@
+NOTE: All three of Andrew Heller, Nic Nikcevic, and Frankie Severino worked on this project equally
+Accordingly, we are all submitting this for our DALI Lab Application. Each individual has their own README detailing what specifically they did. See this MASTER README for General information about bugs, future features, and sources uses.
+
 # SinkTest
 SinkTest is a MVP of the Sink App, an IOS app to track and share games of Pong among Dartmouth students.
 This Application was built by Francesco Severino '27, Andrew Heller '27, and Nic Nikcevic '27 in January of 2025
