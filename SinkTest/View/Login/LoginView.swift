@@ -5,6 +5,7 @@
 //  Created by Nic Nikcevic, Andrew Heller, Francesco Severino
 //  January 2025
 //
+// This file is changed very little from Template Code (See Master README.md)
 
 import Firebase
 import FirebaseAuth
